@@ -1,0 +1,22 @@
+.course-section{
+    display: flex;
+    margin-top: 30px;
+}
+.course-wrap{
+    width: 80%;
+    margin-right: 20px;
+}
+.header{
+    text-align: center;
+}
+button{
+    border: none;
+    background-color: #1EC074;
+    padding: 10px 20px ;
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
+}
+.cart-section{
+    border-left: 1px solid #EDEDED;
+    width: 20%;
+}
